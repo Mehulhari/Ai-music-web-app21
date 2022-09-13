@@ -1,0 +1,23 @@
+#header{
+    background-color:bisque;
+    top:0;
+  font-size: 25px;
+    width:100%;
+  position: fixed;   
+  text-align: center;
+
+}
+
+canvas{
+    border:5px;
+    box-shadow:5px 5px 5px burlywood;
+    padding:6px;
+    margin:11px;
+
+}
+
+#Note{
+    font-size: 20px;
+    text-align: center;
+
+}
